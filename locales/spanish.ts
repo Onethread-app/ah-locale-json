@@ -1287,4 +1287,35 @@ export const es: TLanguage = {
     "Conecte su cuenta PayPal para recibir pagos de su cliente. <span class='warning'>PayPal no es compatible con servicios de ventas adicionales debido a un problema regional y no es compatible con <a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>ciertas monedas</a></span>.",
   UPSELL_ORDER_FORM_DESCRIPTION:
     'Tenga en cuenta que durante las ventas adicionales, si utiliza PayPal, este método de pago no funcionará para comprar servicios de ventas adicionales y permanecerá deshabilitado.',
+  DONE: 'hecho',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE: '',
+  SORT_BY_SIZE: '',
+  CUSTOM: 'Personalizado',
+  TASK_PROPERTIES_INFO_TEXT:
+    'Las propiedades resaltan los detalles clave de la tarea para una mejor organización y seguimiento',
+  YEARS: 'Años',
+  FAILED_TO_LOAD_MESSAGE_PART_1_FOR_PAGE:
+    '¡Ups! Parece que los datos no se cargaron correctamente. Intente actualizar la página. Si continúa recibiendo este mensaje, por favor',
+  PLEASE_SELECT_A_CLIENT_FIRST: 'Primero seleccione un cliente',
+  NO_OPTIONS: 'Sin opciones',
+  FORGOT_WORKSPACE_NAME: '¿Olvidaste el nombre del espacio de trabajo?',
+  CHECK_EMAIL_FOR_WORKSPACE_NAME:
+    'Por favor revise su correo electrónico para ver el nombre del espacio de trabajo',
+  REGAIN_ACCESS_TO_WORKSPACE: 'Recuperar acceso a su espacio de trabajo',
+  GIVE_EMAIL_FOR_WORKSPACE_NAME:
+    'Ups, ¿olvidaste tu espacio de trabajo? ¡No hay problema! Danos la dirección de correo electrónico con la que te registraste y te enviaremos los nombres de los espacios de trabajo asociados con ese correo electrónico.',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    'El asunto del correo electrónico no puede tener {{client_password}}, {{member_password}} y {{company_logo}} en él.',
+  KEEP_ORDER_AS_IT_IS: 'Mantener el pedido como está',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    'El nuevo ciclo no cambiará nada del orden actual',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS: 'Crear nuevo pedido con tareas actuales',
+  NEW_ORDER_WILL_BE_CREATED:
+    'Se creará un nuevo pedido con tareas actuales duplicadas con nuevos plazos (si existen)',
+  ADD_ONS: 'Complementos',
+  DELETE_ADDONS: 'Eliminar complementos',
+  CREATE_ADDONS: 'Crear complementos',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    'Para los suscriptores en funcionamiento, los cambios se aplicarán a partir del próximo ciclo de facturación',
+  AFTER_EVERY_BILLING_CYCLE: 'Después de cada ciclo de facturación',
 }

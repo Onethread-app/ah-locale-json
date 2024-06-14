@@ -56,8 +56,8 @@ export const cn: TLanguage = {
   ACCEPT: '接受',
   ACCEPT_VENDOR_PENDING_REQUEST: '接受供应商待处理请求',
   ACCESS_YOUR_AGENCY_HANDY_ACCOUNT:
-    '访问您的代理助手帐户，深入了解您机构的正在进行的订单，管理客户并跟踪任务。立即登录，掌握您机构的游戏！',
-  ACCOUNT_CREATE_SUCCESS_MESSAGE: '帐号已成功创建，请登录',
+    '访问您的代理助手帐户,深入了解您机构的正在进行的订单,管理客户并跟踪任务。立即登录,掌握您机构的游戏！',
+  ACCOUNT_CREATE_SUCCESS_MESSAGE: '帐号已成功创建,请登录',
   ACCOUNT_VERIFICATIONS_SUCCESS_MESSAGE: '帐户已成功验证',
   ACTION: '操作',
   ACTIVE_ORDER_COUNT: '活跃订单数量',
@@ -72,7 +72,7 @@ export const cn: TLanguage = {
   ADD_ITEM: '添加项目',
   ADD_LINK: '添加链接',
   ADD_MEMBER_FROM_NOTE:
-    "注意：将新的团队成员添加到'Agency Handy'平台，团队成员将收到包含安全登录 URL 的电子邮件。",
+    "注意:将新的团队成员添加到'Agency Handy'平台,团队成员将收到包含安全登录 URL 的电子邮件。",
   ADD_MEMBER_IN_DISCUSSION: '添加讨论成员',
   ADD_NEW_MEMBER_TO_COMPANY: '添加新成员到公司',
   ADD_OR_REMOVE_COMPANY_MEMBER_DESIGNATION: '添加或移除公司成员称号',
@@ -86,7 +86,7 @@ export const cn: TLanguage = {
   ADD_TEAM_MEMBER: '添加团队成员',
   ADD_TICKET: '添加工单',
   ADD_YOUR_CLIENTS_TO_THE_AGENCY_HANDY:
-    "将您的客户添加到'Agency Handy'平台，简化沟通和协作。跟踪订单、任务和进度，所有都在一处。",
+    "将您的客户添加到'Agency Handy'平台,简化沟通和协作。跟踪订单、任务和进度,所有都在一处。",
   ADDED_SERVICES: '已添加的服务',
   ADDITIONAL_AMOUNT: '额外金额',
   ADDRESS: '地址',
@@ -146,15 +146,15 @@ export const cn: TLanguage = {
   CLIENT_AND_INTERNAL_TEAM_CONVERSATION: '客户和内部团队对话',
   CLIENT_APPROVAL: '客户审批',
   CLIENT_CREATE_NOTE_TEXT:
-    "注意：将新客户添加到'Agency Handy'平台，客户将收到包含安全登录 URL 的电子邮件。",
+    "注意:将新客户添加到'Agency Handy'平台,客户将收到包含安全登录 URL 的电子邮件。",
   CLIENT_CSV_UPLOAD_INSTRUCTION:
-    '注意：要导入您的客户，只需以我们的首选格式上传您的数据。（名，姓，电子邮件，国家，州，城市，邮政编码）',
+    '注意:要导入您的客户,只需以我们的首选格式上传您的数据。（名,姓,电子邮件,国家,州,城市,邮政编码）',
   CLIENT_DETAILS: '客户详情',
   CLIENT_HAS_NOT_PLACED_ANY_ORDER:
     '看起来这个客户还没有下任何订单。联系他们讨论需求并推荐适当的服务。',
   CLIENT_ID: '客户ID',
   CLIENT_IMPORT_NOTE_TEXT:
-    '注意：要导入您的客户，只需按照我们的首选格式上传您的数据。(客户姓名、公司名称、电子邮件、国家、省/市/自治区、城市、输入邮政编码)',
+    '注意:要导入您的客户,只需按照我们的首选格式上传您的数据。(客户姓名、公司名称、电子邮件、国家、省/市/自治区、城市、输入邮政编码)',
   CLIENT_NAME: '客户姓名',
   CLIENT_NAME_LENGTH: '名称必须至少包含2个单词',
   CLIENT_PORTAL_SIGN_IN: '客户门户登录',
@@ -184,7 +184,7 @@ export const cn: TLanguage = {
   CONNECT: '连接',
   INTEGRATION_STRIPE_DESCRIPTION: '连接您的 Stripe 帐户以接收来自客户的付款。',
   CONNECTED: '已连接',
-  CONSIDER_CHECKING_IN_WITH_THE_CLIENT: '考虑与客户联系，讨论任何待付款。',
+  CONSIDER_CHECKING_IN_WITH_THE_CLIENT: '考虑与客户联系,讨论任何待付款。',
   COPIED: '已复制',
   COPY: '复制',
   COPY_FIELDS_FROM_EXISTING_SERVICES: '从现有服务复制字段',
@@ -227,9 +227,9 @@ export const cn: TLanguage = {
   CURRENT_SUBSCRIPTION_DETAILS: '当前订阅详情',
   CUSTOM_DOMAIN: '自定义域名',
   CUSTOM_DOMAIN_BRIEF:
-    "此功能允许您使用自己的网站地址（例如，www.yourbusiness.com）与'Agency Handy'。使用自定义域名可以让人们更容易地找到和记住您的网站，这是一个增强品牌并创建专业在线存在的好方法。",
+    "此功能允许您使用自己的网站地址（例如,www.yourbusiness.com）与'Agency Handy'。使用自定义域名可以让人们更容易地找到和记住您的网站,这是一个增强品牌并创建专业在线存在的好方法。",
   CUSTOM_DOMAIN_WARNING:
-    '请注意，设置自定义域名可能需要一些时间来处理和发布。感谢您的耐心！',
+    '请注意,设置自定义域名可能需要一些时间来处理和发布。感谢您的耐心！',
   CVC: 'CVC',
   DASHBOARD: '仪表盘',
   DATE: '日期',
@@ -258,7 +258,7 @@ export const cn: TLanguage = {
   DISCOUNT_PERCENTAGE: '折扣百分比',
   DOMAIN_NAME: '域名',
   DOMAIN_NAME_THAT_YOU_WANT: '您想要的域名',
-  DOMAIN_SETUP_TEXT: '登录您在 DNS 提供商处的帐户，并添加以下记录以完成域设置',
+  DOMAIN_SETUP_TEXT: '登录您在 DNS 提供商处的帐户,并添加以下记录以完成域设置',
   DONT_HAVE_A_ACCOUNT: '没有账户？',
   DOWNLOAD: '下载',
   DRAFT: '草稿',
@@ -284,14 +284,14 @@ export const cn: TLanguage = {
   EDIT_TICKET: '编辑工单',
   EDITOR_DEFAULT_PLACEHOLDER: '写...',
   ELEVATE_YOUR_AGENCY_POTENTIAL_BY_ADDING_TEAM_MEMBERS_TO_COLLABORATE_AND_CONQUER_CHALLEGES_TOGETHER:
-    '通过添加团队成员合作并共同解决挑战，提升您的代理机构潜力',
+    '通过添加团队成员合作并共同解决挑战,提升您的代理机构潜力',
   EMAIL: '邮箱',
   EMAILS: '邮箱',
   EMAIL_ALREADY_USED: '电子邮件已经被使用',
   EMBARK_ON_YOUR_WORKSPACE_JOURNEY: '开始您的工作区旅程',
   EMPLOYEE_SUBSCRIPTION_MESSAGE: '请与此公司的超级管理员或管理员联系。',
   EMPTY_TASK_LIST_TEXT:
-    '坐下来放松，让我们专注的团队处理您的任务，确保您的订单顺利进行。',
+    '坐下来放松,让我们专注的团队处理您的任务,确保您的订单顺利进行。',
   END_DATE: '结束日期',
   ENTER_CVC: '输入 CVC',
   ENTER_MM_YY: '输入 MM/YY',
@@ -322,7 +322,7 @@ export const cn: TLanguage = {
     '请检查您的电子邮件中是否有包含您的代码的消息。您的代码长度为 5 个数字。',
   FORM: '表格',
   FORM_INFORMATION_IS_REQUIRED:
-    '需要信息以了解您的首选项。如果需要信息不完整，订单将保持待定状态。请填写下面的表格，帮助我们开始流程',
+    '需要信息以了解您的首选项。如果需要信息不完整,订单将保持待定状态。请填写下面的表格,帮助我们开始流程',
   FORM_NAME: '表格名称',
   FORM_SETUP: '表格设置',
   FORMATTED_TEXT: '格式化文本',
@@ -335,9 +335,9 @@ export const cn: TLanguage = {
   GET_PROJECT_REPORT_DASHBOARD: '查看项目报告仪表板',
   GET_STARTED: '开始使用',
   GET_STARTED_BY_CREATING_A_PROPOSAL_TO_KICKSTART_YOUR_PROJECT:
-    '通过创建提案来启动您的项目协作。我们的平台简化了提案流程，实现了无缝的客户参与',
+    '通过创建提案来启动您的项目协作。我们的平台简化了提案流程,实现了无缝的客户参与',
   GET_STARTED_BY_RECEIVING_A_PROPOSAL:
-    '通过接收客户的提案来启动您的项目协作。我们的平台简化了提案流程，实现无缝的客户参与。',
+    '通过接收客户的提案来启动您的项目协作。我们的平台简化了提案流程,实现无缝的客户参与。',
   GET_STARTED_WITH_AGENCY_HANDY: '开始使用代理助手',
   GET_SUPPORT: '获取支持',
   GET_TIME_SHEET: '获取时间表',
@@ -391,13 +391,13 @@ export const cn: TLanguage = {
   LETS_CREATE_A_NEW_SERVICE:
     '通过探索我们提供的各种服务开始您的旅程。准备好将您的业务提升到新的高度。',
   LETS_GET_STARTED_CREATE_YOUR_FIRST_ORDER:
-    '让我们开始吧！创建您的第一个订单，解锁无缝协作的力量。',
+    '让我们开始吧！创建您的第一个订单,解锁无缝协作的力量。',
   LETS_GET_STARTED_CREATE_YOUR_FIRST_TASK:
-    '通过创建任务并跟踪进度，提高您的工作效率。通过组织任务管理，优化订单流程。',
+    '通过创建任务并跟踪进度,提高您的工作效率。通过组织任务管理,优化订单流程。',
   LETS_GET_YOU_ALL_SETUP:
     '让我们开始吧！创建强密码以确保您的帐户安全。您的安全是我们的首要任务',
   ENTER_YOUR_WORKSPACE_NAME_TO_EFFORTLESSLY_ACCESS:
-    '输入您的工作区名称，轻松访问您机构的全套工具、操作和资源。',
+    '输入您的工作区名称,轻松访问您机构的全套工具、操作和资源。',
   LIFETIME: '终身',
   LINK: '链接',
   LIST: '列表',
@@ -409,7 +409,7 @@ export const cn: TLanguage = {
   LOWEST: '最低',
   MANAGE_SUBSCRIPTION: '管理订阅',
   MAP_DATA_FIELDS_IMPORT_NOTES:
-    '注意：我们的平台会自动将您的数据列与我们的系统字段匹配。如果需要，您可以从我们的下拉菜单中手动选择一个列，以便进行无缝导入过程。',
+    '注意:我们的平台会自动将您的数据列与我们的系统字段匹配。如果需要,您可以从我们的下拉菜单中手动选择一个列,以便进行无缝导入过程。',
   MAPPER: '映射器',
   MARK_AS_READ: '标记为已读',
   MAX_FILE_SIZE_1_MB: '最大文件大小1 MB',
@@ -444,12 +444,12 @@ export const cn: TLanguage = {
   NO_FILES_FOUND: '未找到文件',
   NO_INTAKE_FORMS_HAS_BEEN_CREATED: '尚未创建接收表格',
   NO_INVOICE_HAS_BEEN_CREATED: '尚未创建发票',
-  NO_KEEP_IT: '不，保留',
+  NO_KEEP_IT: '不,保留',
   NO_NOTIFICATIONS_RIGHT_NOW: '现在没有通知',
   NO_ORDER_FORMS_HAS_BEEN_CREATED: '尚未创建订单表格',
   NO_ORDER_HAS_BEEN_CREATED: '尚未创建订单',
   NO_ORDER_PART_1: '尚未创建订单',
-  NO_ORDER_PART_2: '让我们开始吧！创建您的第一个订单，解锁无缝协作的力量。',
+  NO_ORDER_PART_2: '让我们开始吧！创建您的第一个订单,解锁无缝协作的力量。',
   NO_PROPOSAL_HAS_BEEN_CREATED: '尚未创建提案',
   NO_PROPOSAL_HAS_BEEN_RECEIVED: '尚未收到提案',
   NO_RECENT_INVOICES_FOUND: '未找到最近的发票',
@@ -500,8 +500,7 @@ export const cn: TLanguage = {
   ORDER_INFORMATION: '订单信息',
   ORDER_INSIGHTS: '订单洞察',
   ORDER_NOTE: '订单备注',
-  ORDER_PROPERTIES_INFO_TEXT:
-    '属性展示了有效的订单详情，以便进行有效的订单跟踪',
+  ORDER_PROPERTIES_INFO_TEXT: '属性展示了有效的订单详情,以便进行有效的订单跟踪',
   ORDER_SUMMARY: '订单摘要',
   ORDERS: '订单',
   OTHER_DETAILS: '其他详细信息',
@@ -514,14 +513,14 @@ export const cn: TLanguage = {
   PASSWORD_CHANGED_SUCCESSFULLY: '密码已成功更改',
   PASSWORD_FIELD_MIN_LENGTH: '密码必须至少8个字符',
   PASSWORD_FORMAT_MESSAGE:
-    '密码必须至少包含8个字符，一个大写字母，一个小写字母，一个数字，一个特殊字符，且不能包含空格',
+    '密码必须至少包含8个字符,一个大写字母,一个小写字母,一个数字,一个特殊字符,且不能包含空格',
   PASSWORDS_DO_NOT_MATCH: '密码不匹配！',
   PAST_MONTH: '过去一个月',
   PAST_WEEK: '过去一周',
   PAY_NOW: '立即付款',
   PAYMENT_AMOUNT: '付款金额',
   PAYMENT_COMPLETED_SUCCESSFULLY:
-    '感谢您的购买！您的订单已成功下达，并已处理付款',
+    '感谢您的购买！您的订单已成功下达,并已处理付款',
   PAYMENT_DATE: '付款日期',
   PAYMENT_DETAILS: '付款详情',
   PAYMENT_METHOD: '付款方式',
@@ -662,7 +661,7 @@ export const cn: TLanguage = {
   SIGN_UP_SUCCESSFULLY_PLEASE_VERIFY_ACCOUNT: '注册成功。请验证您的帐户',
   SIGNUP_FOR_ACCOUNT: '注册账号',
   SIMPLE_TRANSPARENT_PRICING_THAT_GROWS_WITH_YOU:
-    '随着您的发展，简单透明的定价也会增长',
+    '随着您的发展,简单透明的定价也会增长',
   SINGLE_USER: '单用户',
   SIZE: '大小',
   SKIP: '跳过',
@@ -683,7 +682,7 @@ export const cn: TLanguage = {
   STATUS: '状态',
   STATUS_ON: '状态于',
   STREAMLINE_YOUR_AGENCY_WORKFLOW:
-    '简化您的机构工作流程，轻松管理客户并轻松跟踪订单进度。',
+    '简化您的机构工作流程,轻松管理客户并轻松跟踪订单进度。',
   STRIPE_NOT_CONNECTED: '未连接 Stripe',
   SUB_TOTAL: '小计',
   SUBJECT: '主题',
@@ -714,7 +713,7 @@ export const cn: TLanguage = {
   THIS_PLAN_INCLUDE: '此套餐包括',
   TICKET: '工单',
   TICKET_DETAILS: '工单详情',
-  TICKET_PROPERTIES_INFO_TEXT: '属性突出显示关键票务详情，以便更好地组织和跟踪',
+  TICKET_PROPERTIES_INFO_TEXT: '属性突出显示关键票务详情,以便更好地组织和跟踪',
   TICKETS: '工单',
   TIME_ZONE: '时区',
   TITLE: '标题',
@@ -756,7 +755,7 @@ export const cn: TLanguage = {
   UPGRADE_PLAN: '升级计划',
   UPGRADE_PLAN_ACCESS_CUSTOM_DOMAIN: '升级计划以访问自定义域名',
   UPGRADE_PLAN_ACCESS_CUSTOM_DOMAIN_TEXT2:
-    '解锁我们高级计划的自定义域名。立即升级，享受独家功能和优惠',
+    '解锁我们高级计划的自定义域名。立即升级,享受独家功能和优惠',
   UPGRADE_YOUR_PLAN: '升级您的计划',
   UPLOAD_COVER_IMAGE: '上传封面图片',
   UPLOAD_LOGO: '上传标志',
@@ -767,7 +766,7 @@ export const cn: TLanguage = {
   USE_AN_EXISTING_INTAKE_FORM: '使用现有的接收表格',
   VALUE: '值',
   VERIFICATION_CODE: '验证码',
-  VERIFICATION_PAGE_IMAGE_TEXT: '请耐心等待5分钟左右，并检查您的邮箱垃圾箱.',
+  VERIFICATION_PAGE_IMAGE_TEXT: '请耐心等待5分钟左右,并检查您的邮箱垃圾箱.',
   VERIFY: '验证',
   VIEW: '查看',
   VIEW_ORDER_DETAILS: '查看订单详情',
@@ -779,11 +778,11 @@ export const cn: TLanguage = {
     '我们刚刚向您在Agency Handy帐户中关联的电子邮件地址发送了一个验证码。此代码将帮助我们确保您对您的帐户有安全访问。',
   WEEK: '周',
   WEEKS: '周',
-  WELCOME_BACK_TO_AGENCY_HANDY: '欢迎回来，使用代理助手',
+  WELCOME_BACK_TO_AGENCY_HANDY: '欢迎回来,使用代理助手',
   WHITELABEL: '白标',
   WORKSPACE: '项目',
   WORKSPACE_INFO:
-    '工作空间名称必须为4-50个字符长度，并且只能包含字母（A-Z）、数字（1-9）和连字符（-）。请',
+    '工作空间名称必须为4-50个字符长度,并且只能包含字母（A-Z）、数字（1-9）和连字符（-）。请',
   WORKSPACE_NAME: '项目名称',
   WORKSPACE_NAME_LENGTH_MINIMUM_LIMIT_MESSAGE:
     '工作区名称必须至少包含 3 个字符',
@@ -791,7 +790,7 @@ export const cn: TLanguage = {
   WORKSPACE_TOOLTIP: '工作空间名称应只包含小写字母、数字和连字符',
   YEAR: '年',
   YES: '是的',
-  YES_DELETE_IT: '是的，删除',
+  YES_DELETE_IT: '是的,删除',
   YOU_CAN_NOT_DELETE_YOURSELF: '您不能删除自己',
   YOU_DONT_HAVE_ACCESS_TO_UPDATE_THIS_FIELD_WITH_ONGOING_REVIEW_STATUS:
     '您无权在进行中/审核中状态下更新此字段',
@@ -804,17 +803,17 @@ export const cn: TLanguage = {
   FORM_WILL_BE_SHOWN_BEFORE_PURCHASE: '购买之前将显示表单。',
   CREATE_ORDER_FORM_DESCRIPTION: '创建一个订单表单以接收此服务的附加信息',
   INTAKE_FORM_FILE_UPLOAD_INSTRUCTION:
-    '上传限制：最大2 GB，支持：图像、文档、音频、视频和压缩文件',
+    '上传限制:最大2 GB,支持:图像、文档、音频、视频和压缩文件',
   FAILED_TO_LOAD_PAGE: '无法加载页面',
   FAILED_TO_LOAD_MESSAGE_PART_1_FOR_APP:
-    '您请求的页面意外加载失败。 请尝试刷新页面。 如果您继续收到此消息，请',
+    '您请求的页面意外加载失败。 请尝试刷新页面。 如果您继续收到此消息,请',
   FAILED_TO_LOAD_MESSAGE_PART_2: '联系我们',
   __MAX_FILE_LIMIT__: '{{ name }} 最多可容纳 1 GB 大小的文件',
   __SERVICE_ADDED_TO_INTAKE_FORM__:
     '服务 {{serviceName}} 添加到接收表单 {{intakeFormName}}',
   ADD_A_SUPPORTED_TEXT: '添加支持的文本',
   SUPPORTED_TEXT: '支持的文本',
-  __SOMETHING_WENT_WRONG_WITH__: '抱歉，{{ name }} 出了点问题',
+  __SOMETHING_WENT_WRONG_WITH__: '抱歉,{{ name }} 出了点问题',
   SOMETHING_WENT_WRONG: '出了点问题',
   'TERMS_&_CONDITION': '条款和条件',
   TERMS_AND_CONDITION_LABEL: '您同意这些条款吗？',
@@ -842,13 +841,13 @@ export const cn: TLanguage = {
   LOGO_LARGE: '商标（大）',
   LOGO_FAVICON: '商标（网站图标）',
   GENERAL_SETTINGS_DESCRIPTION: '轻松管理基本公司详情',
-  COMPANY_NAME_DESCRIPTION: '设置公司名称，以在平台上识别',
+  COMPANY_NAME_DESCRIPTION: '设置公司名称,以在平台上识别',
   COMPANY_ADDRESS_DESCRIPTION: '提供公司地址以准确呈现',
   TIME_ZONE_DESCRIPTION: '选择公司的时区以确保准确的排程',
   DEFAULT_CLIENT_SETTING_LANGUAGE_DESCRIPTION: '选择客户界面的默认语言',
   DEFAULT_CURRENCY_DESCRIPTION: '指定用于财务交易和报告的默认货币',
   APPEARANCE_DESCRIPTION: '定制平台的基本视觉元素',
-  PRIMARY_COLOR_DESCRIPTION: '主色将应用于按钮和链接，以实现一致的视觉主题',
+  PRIMARY_COLOR_DESCRIPTION: '主色将应用于按钮和链接,以实现一致的视觉主题',
   SIDEBAR_COLOR_DESCRIPTION: '侧边栏颜色将应用于侧边栏的背景',
   SIDEBAR_TEXT_COLOR_DESCRIPTION: '文字颜色将应用于侧边栏文字',
   SIDEBAR_HOVER_COLOR_DESCRIPTION: '悬停在侧边栏元素上时的背景颜色',
@@ -873,15 +872,15 @@ export const cn: TLanguage = {
   SMTP_SETUP: 'SMTP 设置',
   EMAIL_REMOVE_SUCESSFULLY: '成功移除电子邮件',
   GO_TO_CUSTOM_DOMAIN: '转到自定义域',
-  EMAIL_SETUP_RETRICTION_MESSAGE: '要配置电子邮件设置，您必须首先拥有自定义域',
+  EMAIL_SETUP_RETRICTION_MESSAGE: '要配置电子邮件设置,您必须首先拥有自定义域',
   SET_AS_DEFAULT: '设为默认',
   REQUEST_AGAIN: '再次请求',
   DEFAULT: '设为',
   WORKSPACE_CONFIG: '工作区配置',
   UPLOAD_LOGO_SMALL: '上传徽标',
   UPLOAD_LOGO_FAVICON: '上传网站图标',
-  SIZE_32_32: '尺寸：32X32',
-  SIZE_16_16: '尺寸：16X16',
+  SIZE_32_32: '尺寸:32X32',
+  SIZE_16_16: '尺寸:16X16',
   YOUR_SMTP_SETTING: '您的 SMTP 设置',
   PORT: '端口',
   SMTP_KEYS: 'SMTP 密钥',
@@ -897,10 +896,10 @@ export const cn: TLanguage = {
   SWITCH_WORKSPACE: '切换工作空间',
   CREATE_NEW_WORKSPACE: '创建新工作空间',
   WORKSPACE_DELETE_CONFIRMATION_TEXT:
-    '请注意，删除此工作区将永久删除所有关联的数据和设置。此操作无法撤消。',
+    '请注意,删除此工作区将永久删除所有关联的数据和设置。此操作无法撤消。',
   WORKSPACE_TRANSIT: '工作区运输',
   YOU_CAN_NOT_DELETE_A_PARENT_WORKSPACE_THAT_HAS_CHILD_WORKSPACES:
-    '抱歉，您无法删除具有子工作区的父工作区',
+    '抱歉,您无法删除具有子工作区的父工作区',
   NO_MORE_WORKSPACE: '没有更多工作空间可供切换',
   MAX_FILE_SIZE_5_MB_PLAIN_TEXT: '最大文件大小 5 MB',
   __MAX_FILE_SIZE_1_GB__: '{{name}} 可以容纳最大 1 GB 大小的文件',
@@ -924,7 +923,7 @@ export const cn: TLanguage = {
   COMMENT_TO_CLIENT: '评论客户模板',
   COMMENT_TO_CLIENT_DESCRIPTION: '团队对客户的评论',
   CUSTOM_DOMAIN_NOT_CONNECTED_DESCRIPTION:
-    '要配置电子邮件设置，您必须首先拥有自定义域',
+    '要配置电子邮件设置,您必须首先拥有自定义域',
   EMAIL_CONFIG_DESCRIPTION: '自定义电子邮件模板以满足您的需求',
   SENDER_EMAIL: '发件人电子邮件',
   SENDER_EMAIL_DESCRIPTION: '指定要发送电子邮件的电子邮件地址',
@@ -945,7 +944,7 @@ export const cn: TLanguage = {
   CLIENT_SIGNIN_BODY_REQURIED_VARIABLES:
     '正文需要 client_email,client_password 和 signin_link。',
   WORKSPACE_NOT_ALLOWED_DESCRIPTION:
-    '要访问子工作区，需要订阅以下任何计划：专业套餐、RocketHub 有限公司 3 级、Ltd - 1 级或 Ltd - 2 级套餐。',
+    '要访问子工作区,需要订阅以下任何计划:专业套餐、RocketHub 有限公司 3 级、Ltd - 1 级或 Ltd - 2 级套餐。',
   GO_TO_SUBSCRIPTION: '前往订阅页面',
   SUPERADMIN_CHILD_WORKSPACE_MESSAGE:
     '请将您的主工作区订阅更改为 Pro 以继续使用您的工作区',
@@ -984,9 +983,9 @@ export const cn: TLanguage = {
   PAY_WITH_BANK: '使用银行支付',
   TYPE_COLUMN_NAME_HERE: '在此处输入列名称',
   EMPTY_COLUMN_NOT_ALLOWED: '不允许空列',
-  NO_KEEP_THEM: '不，保留它们',
-  YES_DELETE_THEM: '是的，删除它们',
-  YES_DISCONNECT_IT: '是，断开连接',
+  NO_KEEP_THEM: '不,保留它们',
+  YES_DELETE_THEM: '是的,删除它们',
+  YES_DISCONNECT_IT: '是,断开连接',
   UPDATED_ON: '更新于',
   UPDATED: '已更新',
   TEAM_MEMBER: '团队成员',
@@ -997,9 +996,9 @@ export const cn: TLanguage = {
   INVITATION_EMAIL_SENT_TO_CLIENT_SUCCESSFULY: '邀请电子邮件已成功发送给客户',
   INVITATION_EMAIL_SENT_TO_CLIENTS_SUCCESSFULY: '邀请电子邮件已成功发送给客户',
   IMPORT_CLIENT_READER_DESCRIPTION_PART_1:
-    '要导入您的客户，只需以我们首选的格式上传您的数据即可。',
+    '要导入您的客户,只需以我们首选的格式上传您的数据即可。',
   IMPORT_CLIENT_READER_DESCRIPTION_PART_2:
-    '（名字、姓氏、公司名称、电子邮件、国家/地区、州、城市，输入邮政编码）',
+    '（名字、姓氏、公司名称、电子邮件、国家/地区、州、城市,输入邮政编码）',
   ZIP_CODE: '邮政编码',
   CLIENT_IMPORT_PREVIEW_PART_1: '现在不发送邀请电子邮件',
   CLIENT_IMPORT_PREVIEW_PART_2:
@@ -1033,7 +1032,7 @@ export const cn: TLanguage = {
   EVERY: '每',
   AMOUNT_PER_CYCLE: '每周期金额',
   OPTIONAL: '可选的',
-  BILLING_CYCLE_DESCRIPTION: '指定总计的计费周期，或者留空以继续订阅直至取消',
+  BILLING_CYCLE_DESCRIPTION: '指定总计的计费周期,或者留空以继续订阅直至取消',
   AGREEMENT: '协议',
   SIGNED_ON: '签署日期',
   FORM_: '从',
@@ -1082,7 +1081,7 @@ export const cn: TLanguage = {
   ADD_ON: '附加组件',
   NO_ADD_ONS_HAS_BEEN_CREATED: '尚未创建任何附加组件',
   LETS_GET_STARTED_CREATE_YOUR_FIRST_ADD_ON: '让我们开始创建您的第一个附加组件',
-  CREATE_ADD_ONS_INFO: '计费周期将继承主服务定义的计费周期，保证统一的计费体验',
+  CREATE_ADD_ONS_INFO: '计费周期将继承主服务定义的计费周期,保证统一的计费体验',
   UPDATE_ADD_ON: '更新附加组件',
   PRICING_TYPE: '定价类型',
   VIEW_DETAILS: '查看详细信息',
@@ -1102,16 +1101,15 @@ export const cn: TLanguage = {
   INTAKE_INFORMATION_MISSING: '缺少接待信息',
   RESEND_VERIFICATION: '重新发送验证',
   VERIFICATION_EMAIL_SENT: '验证邮件已发送',
-  EMAIL_SETUP_CREATE_NOTE:
-    '请注意：将向您的电子邮件地址发送来自AWS的验证链接。',
-  'NOTE.': '注意：',
+  EMAIL_SETUP_CREATE_NOTE: '请注意:将向您的电子邮件地址发送来自AWS的验证链接。',
+  'NOTE.': '注意:',
   'LINK.': '链接。',
   DKIM_CREATE_DESCRIPTION:
-    '在您的DNS设置页面中提供最小TTL（生存时间）值。 根据您输入的ttl值，您可能需要等待30分钟至1天以使此更改传播。 您还可以验证记录是否在此中传播',
+    '在您的DNS设置页面中提供最小TTL（生存时间）值。 根据您输入的ttl值,您可能需要等待30分钟至1天以使此更改传播。 您还可以验证记录是否在此中传播',
   DKIM_CREATE_SUPPORT:
-    '如果您遇到任何问题，请随时通过聊天或support@agencyhandy.com联系我们。',
+    '如果您遇到任何问题,请随时通过聊天或support@agencyhandy.com联系我们。',
   SPF_CREATE_HEADER_DESCRIPTION:
-    '将下面的记录添加到您的域名的DNS设置中。 如果SPF记录已经存在，请仅将include:amazonses.com添加到其中',
+    '将下面的记录添加到您的域名的DNS设置中。 如果SPF记录已经存在,请仅将include:amazonses.com添加到其中',
   DKIM_CREATE_HEADER_DESCRIPTION: '将下面的记录添加到您的域名的DNS设置中',
   ADDONS_CREATE_PUBLISH_DESCRIPTION:
     'অর্ডার ফর্মে তাদের যোগ করার সময় শুধুমাত্র প্রকাশিত অ্যাড-অন দেখা যাবে।',
@@ -1123,7 +1121,7 @@ export const cn: TLanguage = {
   CATEGORIES: '类别',
   NO_CATEGORY_HAS_BEEN_ADDED: '尚未添加类别',
   ADD_CATEGORIES_SO_THAT_YOU_CAN_CATEGORIZE_YOUR_CLIENTS:
-    '添加类别，以便您可以对客户进行分类',
+    '添加类别,以便您可以对客户进行分类',
   ADD_CATEGORY: '添加类别',
   TERMS_AND_CONDITION_PLACEHOLDER:
     '在此处写下您的条款和条件。\r\n使用 `[Url title](Url link)` 创建超链接。',
@@ -1148,7 +1146,7 @@ export const cn: TLanguage = {
   PRICE_RANGE: '价格范围',
   REGAIN_ACCESS_TO_YOUR_ACCOUNT: '重新获得对您帐户的访问权限',
   OOPS_FORGOT_YOUR_PASSWORD:
-    '哎呀，忘记了密码？不用担心！按照这些简单的步骤重置您的密码并重新访问您的 Agency Handy 帐户。',
+    '哎呀,忘记了密码？不用担心！按照这些简单的步骤重置您的密码并重新访问您的 Agency Handy 帐户。',
   CONTINUE: '继续',
   CANT_FIND_YOUR_CODE: '找不到您的代码？',
   RESEND_CODE: '重新发送代码',
@@ -1163,10 +1161,44 @@ export const cn: TLanguage = {
   THIS_FILE_IS_NOT_ELIGIBLE_FOR_VIEWING: '该文件不可查看。',
   ALL_FILE_INSTRUCTION:
     '接受的文件: csv, odt, doc, docx, htm, html, pdf, ppt, pptx, txt, xls, xlsx, jpg, jpeg, png, gif, webp, svg, ai, mp4, mp3, wav, zip, rar',
-  UPSELL_NOT_SUPPORTED: 'PayPal 付款不支持追加销售服务，请选择其他付款方式。',
+  UPSELL_NOT_SUPPORTED: 'PayPal 付款不支持追加销售服务,请选择其他付款方式。',
   __CURRENCY_NOT_SUPPORTED__: 'Paypal 付款不支持货币 {{currency}}',
   INTEGRATION_PAYPAL_DESCRIPTION:
-    "连接您的 PayPal 帐户以接收来自客户的付款。<span class='warning'>由于区域问题，PayPal 不支持追加销售服务，并且不支持<a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>某些货币</a></span>。",
+    "连接您的 PayPal 帐户以接收来自客户的付款。<span class='warning'>由于区域问题,PayPal 不支持追加销售服务,并且不支持<a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>某些货币</a></span>。",
   UPSELL_ORDER_FORM_DESCRIPTION:
-    '请注意，在追加销售期间，如果您使用 PayPal，此付款方式将不适用于购买追加销售服务，并将保持禁用状态。',
+    '请注意,在追加销售期间,如果您使用 PayPal,此付款方式将不适用于购买追加销售服务,并将保持禁用状态。',
+  TASK_PROPERTIES_INFO_TEXT:
+    '属性突出显示关键任务详细信息,以便更好地组织和跟踪',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    '电子邮件主题不能包含 {{client_password}}、{{member_password}} 和 {{company_logo}}。',
+  AFTER_EVERY_BILLING_CYCLE: '每个结算周期后',
+  KEEP_ORDER_AS_IT_IS: '保持订单原样',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER: '新周期不会更改正在进行的订单的任何内容',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS: '使用当前任务创建新订单',
+  NEW_ORDER_WILL_BE_CREATED:
+    '将使用重复的当前任务和新的截止日期（如果存在）创建新订单',
+  ADD_ONS: '附加组件',
+  DELETE_ADDONS: '删除附加组件',
+  CREATE_ADDONS: '创建附加组件',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    '对于正在运行的订阅者,更改将从下一个计费周期开始适用',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE: '每个周期都会创建新订单',
+  SORT_BY_SIZE: '按大小排序',
+  YEARS: '年',
+  CUSTOM: '自定义',
+  FAILED_TO_LOAD_MESSAGE_PART_1_FOR_PAGE:
+    '糟糕！似乎数据未正确加载。请尝试刷新页面。如果您继续收到此消息,请',
+  SELECETD: '已选择',
+  SELECETED_COLUMNS: '已选择列',
+  SELECT_COLUMNS_TO_EXPORT: '选择要导出的列',
+  EXPORT_AS: '导出为',
+  SELECT_TYPE: '选择类型',
+  PLEASE_SELECT_A_CLIENT_FIRST: '请先选择客户',
+  NO_OPTIONS: '无选项',
+  DONE: '完成',
+  FORGOT_WORKSPACE_NAME: '忘记了工作区名称？',
+  CHECK_EMAIL_FOR_WORKSPACE_NAME: '请查看您的电子邮件以获取工作区名称',
+  REGAIN_ACCESS_TO_WORKSPACE: '重新获得对您的工作区的访问权限',
+  GIVE_EMAIL_FOR_WORKSPACE_NAME:
+    '哎呀,忘记了您的工作区？别担心！请提供您注册时使用的电子邮件地址,我们将向您发送与该电子邮件关联的工作区名称。',
 }

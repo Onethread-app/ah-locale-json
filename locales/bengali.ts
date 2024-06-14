@@ -830,6 +830,7 @@ export const bn: TLanguage = {
   WORKSPACE_TOOLTIP:
     'ওয়ার্কস্পেস এর নামে শুধুমাত্র ছোট হাতের অক্ষর, সংখ্যা এবং হাইফেন থাকা উচিত',
   YEAR: 'বছর',
+  YEARS: 'বছর',
   YES: 'হ্যাঁ',
   YES_DELETE_IT: 'হ্যাঁ, মুছে দিন',
   YOU_CAN_NOT_DELETE_YOURSELF: 'আপনি নিজেকে মুছে ফেলতে পারবেন না',
@@ -1271,4 +1272,24 @@ export const bn: TLanguage = {
     "আপনার ক্লায়েন্টের কাছ থেকে অর্থপ্রদান পেতে আপনার PayPal অ্যাকাউন্ট সংযুক্ত করুন। <span class='warning'>PayPal আঞ্চলিক সমস্যার কারণে আপসেলিং পরিষেবাগুলির জন্য সমর্থিত নয় এবং href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>নির্দিষ্ট কিছু মুদ্রা</a></span>।",
   UPSELL_ORDER_FORM_DESCRIPTION:
     'অনুগ্রহ করে মনে রাখবেন যে আপসেল করার সময়, আপনি যদি PayPal ব্যবহার করেন, এই অর্থপ্রদানের পদ্ধতি আপসেল পরিষেবাগুলি কেনার জন্য কাজ করবে না এবং নিষ্ক্রিয় থাকবে।',
+  TASK_PROPERTIES_INFO_TEXT:
+    'বৈশিষ্ট্যগুলি আরও ভাল সংগঠন এবং ট্র্যাকিংয়ের জন্য মূল টাস্কের বিবরণ হাইলাইট করে',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    'ইমেল বিষয়ের মধ্যে {{client_password}}, {{member_password}} এবং {{company_logo}} থাকতে পারে না।',
+  AFTER_EVERY_BILLING_CYCLE: 'প্রতিটি বিলিং চক্রের পরে',
+  KEEP_ORDER_AS_IT_IS: 'যেভাবে আছে অর্ডার রাখুন',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    'নতুন চক্র চলমান আদেশের কিছুই পরিবর্তন করবে না',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS:
+    'বর্তমান কাজগুলির সাথে নতুন অর্ডার তৈরি করুন',
+  NEW_ORDER_WILL_BE_CREATED:
+    'নতুন সময়সীমা (যদি বিদ্যমান থাকে) সহ ডুপ্লিকেট করা বর্তমান কাজগুলির সাথে নতুন অর্ডার তৈরি করা হবে',
+  ADD_ONS: 'অ্যাড-অন',
+  DELETE_ADDONS: 'অ্যাড-অন মুছুন',
+  CREATE_ADDONS: 'অ্যাড-অন তৈরি করুন',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    'চলমান গ্রাহকদের জন্য পরিবর্তন পরবর্তী বিলিং চক্র থেকে প্রযোজ্য হবে',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE:
+    'প্রতি চক্রের সাথে নতুন অর্ডার তৈরি হবে',
+  SORT_BY_SIZE: 'আকার অনুসারে সাজান',
 }

@@ -1287,4 +1287,37 @@ export const de: TLanguage = {
     "Verbind uw PayPal-rekening om betalingen van uw klant te ontvangen. <span class='warning'>PayPal wordt niet ondersteund voor upselling-services vanwege regionale problemen en ondersteunt <a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>bepaalde valuta's</a></span>.",
   UPSELL_ORDER_FORM_DESCRIPTION:
     'Houd er rekening mee dat tijdens upselling deze betaalmethode, als u PayPal gebruikt, niet werkt voor het kopen van upsell-services en uitgeschakeld blijft.',
+  CUSTOM: 'Aangepast',
+  YEARS: 'Jaren',
+  PLEASE_SELECT_A_CLIENT_FIRST: 'Selecteer eerst een klant',
+  NO_OPTIONS: 'Geen opties',
+  DONE: 'Klaar',
+  FORGOT_WORKSPACE_NAME: 'Naam werkruimte vergeten?',
+  CHECK_EMAIL_FOR_WORKSPACE_NAME:
+    'Controleer uw e-mail voor de naam van de werkruimte',
+  REGAIN_ACCESS_TO_WORKSPACE: 'Krijg opnieuw toegang tot uw werkruimte',
+  GIVE_EMAIL_FOR_WORKSPACE_NAME:
+    'Oeps, je werkplek vergeten? Geen zorgen! Geef ons het e-mailadres waarmee u zich heeft geregistreerd, wij sturen u de werkruimtenamen die aan die e-mail zijn gekoppeld.',
+  TASK_PROPERTIES_INFO_TEXT:
+    'Eigenschappen benadrukken belangrijke taakdetails voor een betere organisatie en tracking',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    'Het e-mailonderwerp mag niet {{client_password}}, {{member_password}} en {{company_logo}} bevatten.',
+  AFTER_EVERY_BILLING_CYCLE: 'Na elke factureringscyclus',
+  KEEP_ORDER_AS_IT_IS: 'Behoud de volgorde zoals die is',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    'Nieuwe cyclus zal niets veranderen aan de lopende orde',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS:
+    'Nieuwe bestelling maken met huidige taken',
+  NEW_ORDER_WILL_BE_CREATED:
+    'Er wordt een nieuwe bestelling aangemaakt met dubbele huidige taken met nieuwe deadlines (indien aanwezig)',
+  ADD_ONS: 'Add-ons',
+  DELETE_ADDONS: 'Invoegtoepassingen verwijderen',
+  CREATE_ADDONS: 'Add-ons maken',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    'Voor bestaande abonnees zijn de wijzigingen van toepassing vanaf de volgende factureringscyclus',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE:
+    'Bij elke cyclus wordt er een nieuwe bestelling aangemaakt',
+  SORT_BY_SIZE: 'Sorteren op grootte',
+  FAILED_TO_LOAD_MESSAGE_PART_1_FOR_PAGE:
+    'Oeps! Het lijkt erop dat de gegevens niet goed zijn geladen. Probeer de pagina te vernieuwen. Als u dit bericht blijft ontvangen, alstublieft',
 }

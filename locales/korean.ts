@@ -1240,4 +1240,30 @@ export const kr: TLanguage = {
     "고객으로부터 결제금을 받으려면 PayPal 계정을 연결하세요. <span class='warning'>PayPal은 지역 문제로 인해 상향 판매 서비스가 지원되지 않으며 <a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>특정 통화</a></span>.",
   UPSELL_ORDER_FORM_DESCRIPTION:
     '상향 판매 중에 PayPal을 사용하는 경우 이 결제 방법은 상향 판매 서비스 구매에 사용할 수 없으며 비활성화된 상태로 유지됩니다.',
+  YEARS: '연도',
+  PLEASE_SELECT_A_CLIENT_FIRST: '먼저 클라이언트를 선택하세요',
+  ADD_A_SUPPORTED_TEXT: '지원되는 텍스트 추가',
+  SUPPORTED_TEXT: '지원되는 텍스트',
+  FORGOT_WORKSPACE_NAME: '작업공간 이름을 잊으셨나요?',
+  CHECK_EMAIL_FOR_WORKSPACE_NAME: '작업공간 이름은 이메일을 확인하세요.',
+  REGAIN_ACCESS_TO_WORKSPACE: '작업 공간에 다시 액세스',
+  GIVE_EMAIL_FOR_WORKSPACE_NAME:
+    '앗, 작업 공간을 잊으셨나요? 걱정 마! 등록한 이메일 주소를 알려주시면 해당 이메일과 관련된 워크스페이스 이름을 보내드리겠습니다.',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    '이메일 제목에는 {{client_password}}, {{member_password}} 및 {{company_logo}}가 포함될 수 없습니다.',
+  KEEP_ORDER_AS_IT_IS: '질서를 있는 그대로 유지하세요',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    '새 주기는 진행 중인 순서에 어떤 것도 변경하지 않습니다',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS: '현재 작업으로 새 주문 생성',
+  NEW_ORDER_WILL_BE_CREATED:
+    '새 마감일이 있는 중복된 현재 작업으로 새 주문이 생성됩니다(존재하는 경우)',
+  ADD_ONS: '추가 기능',
+  DELETE_ADDONS: '추가 기능 삭제',
+  CREATE_ADDONS: '추가 기능 생성',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    '현재 구독자에 대한 변경 사항은 다음 결제 주기부터 적용됩니다',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE: '매 주기마다 새로운 질서가 생성됩니다',
+  SORT_BY_SIZE: '크기순 정렬',
+  AFTER_EVERY_BILLING_CYCLE: '매 결제 주기 이후',
+  DONE: '완료',
 }

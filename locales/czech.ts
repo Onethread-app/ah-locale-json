@@ -1247,4 +1247,60 @@ export const cz: TLanguage = {
     "Připojte svůj účet PayPal, abyste mohli přijímat platby od svého klienta. <span class='warning'>PayPal není podporován pro další prodej služeb z důvodu regionálního problému a nepodporuje <a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>určité měny</a></span>.",
   UPSELL_ORDER_FORM_DESCRIPTION:
     'Upozorňujeme, že během upsellingu, pokud používáte PayPal, tato platební metoda nebude fungovat pro nákup doplňkových služeb a zůstane deaktivována.',
+  AFTER_EVERY_BILLING_CYCLE: 'Po každém fakturačním cyklu',
+  KEEP_ORDER_AS_IT_IS: 'Zachovat pořádek tak, jak je',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    'Nový cyklus nezmění nic na probíhajícím pořadí',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS:
+    'Vytvořit novou objednávku s aktuálními úkoly',
+  NEW_ORDER_WILL_BE_CREATED:
+    'Vytvoří se nová objednávka s duplicitními aktuálními úkoly s novými termíny (pokud existuje)',
+  ADD_ONS: 'Doplňky',
+  DELETE_ADDONS: 'Smazat doplňky',
+  CREATE_ADDONS: 'Vytvořit doplňky',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    'Pro běžící předplatitele budou změny platit od příštího fakturačního cyklu',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE:
+    'Nová objednávka bude vytvořena s každým cyklem',
+  SORT_BY_SIZE: 'Seřadit podle velikosti',
+  YEARS: 'roky',
+  DELETE_ORDERS: 'Smazat objednávky',
+  DELETE_FORM: 'Smazat formulář',
+  DELETE_FORMS: 'Smazat formuláře',
+  DELETE_PROPOSAL: 'Smazat návrh',
+  DELETE_PROPOSALS: 'Smazat návrhy',
+  DELETE_TICKET: 'Smazat lístek',
+  DELETE_TICKETS: 'Smazat vstupenky',
+  DELETE_MEMBERS: 'Smazat členy',
+  DELETE_TASKS: 'Smazat úkoly',
+  'NOT SET': 'Not Set',
+  LAST_PAYMENT: 'Poslední platba',
+  NEXT_PAYMENT: 'Další platba',
+  NO_OF_PAYMENTS: 'Počet plateb',
+  SUBSCRIPTIONS: 'Předplatné',
+  CANCEL_SUBSCRIPTION: 'Zrušit předplatné',
+  CONFIRM_CANCEL_SUBSCRIPTION_DESCRIPTION:
+    'Opravdu chcete zrušit toto předplatné? Tuto akci nelze vrátit zpět. Zrušení tohoto předplatného znamená, že budoucí platby spojené s touto objednávkou nebudou zpracovány.',
+  KEEP_IT: 'Nech si to',
+  BILLING_CYCLE: 'Fakturační cyklus',
+  BUDGET_PER_CYCLE: 'Rozpočet na cyklus',
+  AMOUNT_PER_CYCLE: 'Částka za cyklus',
+  SUBSCRIPTION_FEE: 'Poplatek za předplatné',
+  BILLING_CYCLE_DESCRIPTION:
+    'Uveďte celkový počet fakturačních cyklů nebo ponechte prázdné, chcete-li pokračovat v předplatném, dokud nebude zrušeno',
+  SIGNED_ON: 'Přihlášeno',
+  FORM_: 'od',
+  'VAT_&_TAX': 'VAT & TAX',
+  ITEM_NAME: 'Název položky',
+  SUBSCRIPTION_ID: 'ID předplatného',
+  SEARCH_BY_PLACEHOLDER_IN_SUBSCRIPTION_PAGE:
+    'Hledat podle ID předplatného, ​​jména klienta nebo názvu služby',
+  SUBSCRIPTION_CANCELLED_SUCCESSFULLY: 'Předplatné bylo úspěšně zrušeno',
+  TOTAL_PAID: 'Celkem zaplaceno',
+  CONFIRM_CLIENT_CANCEL_SUBSCRIPTION_DESCRIPTION:
+    'Opravdu chcete zrušit toto předplatné?',
+  EVERY: 'Každý',
+  OPTIONAL: 'Volitelné',
+  AGREEMENT: 'Smlouva',
+  SIGNATURE: 'Podpis',
 }

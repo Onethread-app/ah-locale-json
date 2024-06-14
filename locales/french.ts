@@ -1286,4 +1286,36 @@ export const fr: TLanguage = {
     "Connectez votre compte PayPal pour recevoir les paiements de votre client. <span class='warning'>PayPal n'est pas pris en charge pour les services de vente incitative en raison d'un problème régional et ne prend pas en charge le <a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>certaines devises</a></span>.",
   UPSELL_ORDER_FORM_DESCRIPTION:
     "Veuillez noter que lors de la vente incitative, si vous utilisez PayPal, ce mode de paiement ne fonctionnera pas pour l'achat de services de vente incitative et restera désactivé.",
+  CUSTOM: 'Custom',
+  TASK_PROPERTIES_INFO_TEXT:
+    'Properties highlight key task details for better organization and tracking',
+  YEARS: 'Years',
+  FAILED_TO_LOAD_MESSAGE_PART_1_FOR_PAGE:
+    "Oops! Seems like data didn't load properly. Please try refreshing the page. If you continue to get this message please",
+  PLEASE_SELECT_A_CLIENT_FIRST: 'Please select a client first',
+  NO_OPTIONS: 'No options',
+  DONE: 'Done',
+  FORGOT_WORKSPACE_NAME: 'Forgot Workspace Name?',
+  CHECK_EMAIL_FOR_WORKSPACE_NAME: 'Please check your email for workspace name',
+  REGAIN_ACCESS_TO_WORKSPACE: 'Regain Access to Your Workspace',
+  GIVE_EMAIL_FOR_WORKSPACE_NAME:
+    'Oops, forgot your workspace? No worries! Give us the email address you registered with, we will send you the workspace names associated with that email.',
+  GENERAL_SETTINGS: 'General Settings',
+  SIGNUP_EMAIL_SUBJECT_NOT_ALLOWED_STRINGS:
+    'Email subject can not have {{client_password}}, {{member_password}} and {{company_logo}} in it.',
+  KEEP_ORDER_AS_IT_IS: 'Keep Order As it is',
+  NEW_CYCLE_WILL_NOT_CHANGE_ORDER:
+    'New cycle will not change anything of the ongoing order',
+  CREATE_NEW_ORDER_WITH_CURRENT_TASKS: 'Create New Order with Current Tasks',
+  NEW_ORDER_WILL_BE_CREATED:
+    'New order will be created with duplicated current tasks with new deadlines (if exists)',
+  ADD_ONS: 'Add-ons',
+  DELETE_ADDONS: 'Delete Add-ons',
+  CREATE_ADDONS: 'Create Add-ons',
+  SUBSCRIPTION_MODAL_UPDATE_WARNING:
+    'For running subscribers changes will be applicable from next billing cycle',
+  NEW_ORDER_WILL_BE_CREATED_EVERY_CYCLE:
+    'New order will be created with every cycle',
+  SORT_BY_SIZE: 'Sort by Size',
+  AFTER_EVERY_BILLING_CYCLE: 'After Every Billing Cycle',
 }

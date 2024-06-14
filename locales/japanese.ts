@@ -240,7 +240,6 @@ export const jp: TLanguage = {
   CURRENT_PLAN: '現在のプラン',
   CURRENT_SUBSCRIPTION_DETAILS: '現在のサブスクリプション詳細',
   CUSTOM_DOMAIN: 'カスタムドメイン',
-  CUSTOM_DOMAIN_INPUT_PLACEHOLDER: '例: client.yourbusiness.com',
   CUSTOM_DOMAIN_BRIEF:
     "この機能を使用すると、独自のウェブサイトアドレス（例：client.yourbusiness.com）を Agency Handy で使用できます。カスタムドメインを使用すると、ユーザーがあなたのサイトを見つけやすく、覚えやすくなります。これは、ブランドを強化し、プロフェッショナルなオンラインプレゼンスを作成するための素晴らしい方法です。注意: 'www' をサブドメインとして使用しないでください。",
   CUSTOM_DOMAIN_WARNING:
@@ -1281,4 +1280,11 @@ export const jp: TLanguage = {
     "クライアントからの支払いを受け取るには、PayPal アカウントを接続してください。<span class='warning'>地域の問題により、PayPal はアップセル サービスではサポートされておらず、<a href='https://developer.paypal.com/docs/reports/reference/paypal-supported-currencies/#link-overview' target='_blank'>特定の通貨</a></span> もサポートされていません。",
   UPSELL_ORDER_FORM_DESCRIPTION:
     'アップセル中は、PayPal を使用する場合、この支払い方法はアップセル サービスの購入には機能せず、無効のままになります。',
+  CLICK_TO_PREVIEW: '미리보기하려면 클릭하세요',
+  SORT_BY_SIZE: '크기순 정렬',
+  COMMON_ALL_TYPE_FILE_UPLOAD_INSTRUCTION: '최대 파일 크기 1GB',
+  COULD_NOT_PREVIEW_FILE: '파일을 미리 볼 수 없습니다',
+  THIS_FILE_IS_NOT_ELIGIBLE_FOR_VIEWING: '이 파일은 볼 수 없습니다.',
+  ALL_FILE_INSTRUCTION:
+    '허용되는 문서: csv, odt, doc, docx, htm, html, pdf, ppt, pptx, txt, xls, xlsx, jpg, jpeg, png, gif, webp, svg, ai, mp4, mp3, wav, zip, rar',
 }
