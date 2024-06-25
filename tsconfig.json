@@ -1,6 +1,6 @@
 {
   "inputs": ["locales/**/*"],
-  "exclude": [],
+  "exclude": ["lib"],
   "compilerOptions": {
     "target": "ESNext",
     "lib": ["dom", "dom.iterable", "esnext"],
