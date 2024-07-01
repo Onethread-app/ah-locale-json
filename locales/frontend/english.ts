@@ -867,7 +867,7 @@ export const en = {
   ADD_A_SUPPORTED_TEXT: 'Add a supported text',
   SUPPORTED_TEXT: 'Supported Text',
   'TERMS_&_CONDITION': 'Terms & Conditions',
-  TERMS_AND_CONDITION_LABEL: 'Do you agree with these terms?',
+  TERMS_AND_CONDITION_LABEL: 'By Clicking This Box I Agree to These Terms',
   HASNT_ACCEPTED_YET: "Hasn't Accepted Yet",
   __SOMETHING_WENT_WRONG_WITH__: 'Sorry, something went wrong with {{ name }}',
   SOMETHING_WENT_WRONG: 'Something went wrong',
