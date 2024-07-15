@@ -1,12 +1,12 @@
 {
   "name": "ah-locale-json",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "Agency handy locales",
-  "main": "index.js",
+  "main": "locales/index.ts",
   "scripts": {
     "build": "rollup -c --bundleConfigAsCjs",
-    "cleanup": "rm -rf *.d.ts && rm -rf *.d.ts.map",
-    "prepublishOnly": "npm run build",
+    "cleanup": "rm -rf lib",
+    "prepublishOnly": "npm run cleanup && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jbordhen",
