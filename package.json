@@ -1,6 +1,6 @@
 {
   "name": "ah-locale-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Agency handy locales",
   "main": "index.js",
   "scripts": {
