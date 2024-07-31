@@ -1,75 +1,109 @@
 # Contributing
 
-If you want to report a bug or suggest a feature, please open an issue.
+## Adding a New Language
 
-While opening an issue for bug, please make sure to include the following information:
+If you want to help us add a new language, please open a pull request with the following information:
 
-- The version of the library that contains the bug
-- A description of the expected behavior
-- A description of the actual behavior
+Title: [Dothraki] Add Dothraki language support
 
-// Example for a bug:
+1. ### Create a new branch: ###
 
-## Title: The word `Kick off Date` is not being translated correctly
+    Before making any changes, create a new branch. Do not push changes directly to the master branch.
+    ```git
+     git checkout -b feat/add-dothraki-language
+   ```
+2. ### Add Language Files: ###
+   Create Dothraki language files and place them in the src/locales/frontend and src/locales/backend folders.
+3. ### Update Frontend Localization: ###
+   
+   •	Open src/locales/frontend/index.ts.
+   
+	 •	Add the following lines:
+    ```ts
+    // other lines
+    import { kr } from './korean'
+    import { es } from './spanish'
+    // insert here
+    import { dothraki } from './dothraki'
+    
+    const locales = { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+    
+    export { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+    
+    export default locales
+    ```
+5. ### Update Backend Localization: ###
+   
+   • Open src/locales/backend/index.ts
+   
+   • Add the following lines:
+   
+   ```ts
+    // other lines
+    import { kr } from './korean'
+    import { es } from './spanish'
+    // insert here
+    import { dothraki } from './dothraki'
+    const locales = { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+    export { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+    export default locales
+    ```
 
-The word `Kick off Date` is being translated as `কিক অফ তারিখ` instead of `কিকঅফ তারিখ`
+7. ### Commit and Push Your Changes: ###
+   •	After making the changes, commit and push your branch.
 
-Package version: 1.0.0
+   ##### from commandline #####
+   
+    ```git
+    git add .
+    git commit -m "Add Dothraki language support"
+    git push origin add-dothraki-language
+    ```
+9. ### Open a Pull Request: ###
+   
+    •	Go to the repository on GitHub
+    
+    •	Open a pull request from your branch to the master branch.
 
-Website link: https://`your_subdomain`.agencyhandy.com/dashboard
+If you have any questions or need help, feel free to ask in the issue or pull request or shoot us at support@agencyhandy.com
 
-File name (Optional): locales/frontend/en.json
 
-Line number (Optional): 123
+## Suggesting a new Language ##
 
-Expected behavior: The word `Kick off Date` should be translated as `কিকঅফ তারিখ`
+To suggest a new language, Create a new issue include a title and description with label tag "Feature".
 
-Actual behavior: The word `Kick off Date` is being translated as `কিক অফ তারিখ`
+### Language Request Example ###
 
-// Example for a feature:
+#### Title: I want Dothraki language support #####
 
-Add a title and description for the issue with the label `feature`
+Description:
+Hey, I am a huge Game of Thrones fan. I want to create a Dothraki language-based shop and manage my clients with Agency Handy.
+Label: Feature
 
-## Title: I want Dothraki language support
+### Reporting an Issue ###
 
-Hey, I am a huge Game of thrones fan.
+When reporting an issue, please include the following information:
 
-I want to create a Dothraki language based shop and manage my clients from agency handy.
+	•	Expected Behavior: What you expected to happen.
+	•	Actual Behavior: What actually happened.
 
-If you want to help us with a new language, please open a pull request with the following information:
+#### Issue Report Example ####
 
-## Title: [Dothraki] Add Dothraki language support
+Title: The word “Kick off Date” is not being translated correctly in Bengali
 
-Insert the dothraki languages files in the `src/locales/frontend` folder and `src/locales/backend` folder
+Description:
+The word “Kick off Date” is being translated as “কিক অফ তারিখ” instead of “কিকঅফ তারিখ”.
 
-Add the following code in the `src/locales/frontend/index.ts` file:
 
-```ts
-// other lines
-import { kr } from './korean'
-import { es } from './spanish'
-// insert here
-import { dothraki } from './dothraki'
+	•	Website Link: your_subdomain.agencyhandy.com/dashboard
+	•	File Name (Optional): locales/frontend/en.json
+	•	Line Number (Optional): 123
+	•	Expected Behavior: The word “Kick off Date” should be translated as “কিকঅফ তারিখ”.
+	•	Actual Behavior: The word “Kick off Date” is being translated as “কিক অফ তারিখ”.
 
-const locales = { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+We appreciate your interest in contributing!
 
-export { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
+For any queries, Open a new issue or mail us at support@agencyhandy.com 
 
-export default locales
-```
 
-Similarly add the following code in the `src/locales/backend/index.ts` file:
 
-```ts
-// other lines
-import { kr } from './korean'
-import { es } from './spanish'
-// insert here
-import { dothraki } from './dothraki'
-
-const locales = { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
-
-export { en, bn, cn, cz, de, fr, jp, kr, es, dothraki }
-
-export default locales
-```
