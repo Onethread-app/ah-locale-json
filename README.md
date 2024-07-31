@@ -1,4 +1,10 @@
-# ah-locale-json
+## Contributing
+
+### For non-developers: ###
+
+If you want to contribute to this project and only want to add language, please read the [contributing guide](https://github.com/Onethread-app/ah-locale-json/blob/master/Contributing.md).
+
+### For developers: ###
 
 This is a translation package for [Agency Handy](www.agencyhandy.com)
 
@@ -91,9 +97,6 @@ const Emample = () => {
 }
 ```
 
-## Contributing
-
-If you want to contribute to this project, please read the [contributing guide](CONTRIBUTING.md).
 
 ## License
 
