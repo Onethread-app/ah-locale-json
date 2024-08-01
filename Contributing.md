@@ -12,6 +12,11 @@ Title: [Dothraki] Add Dothraki language support
     ```git
      git checkout -b feat/add-dothraki-language
    ```
+    <img width="1279" alt="Screenshot 2024-08-01 at 5 43 15 PM" src="https://github.com/user-attachments/assets/fb38f0cc-53ec-4afb-b3e9-0e6c10b33f56"> 
+
+    <img width="1279" alt="Screenshot 2024-08-01 at 5 46 04 PM" src="https://github.com/user-attachments/assets/464a489b-0a08-4983-9802-1214e06364ba">
+
+
 2. ### Add Language Files: ###
    Create Dothraki language files and place them in the src/locales/frontend and src/locales/backend folders.
 3. ### Update Frontend Localization: ###
